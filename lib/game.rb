@@ -17,5 +17,5 @@ class Game
       @board = board 
       @board.display
     end
-  end
-  end
+  # end
+  # end
